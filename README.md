@@ -10,6 +10,8 @@ A modern alternative to Sound Devices Wave Agent — for macOS.
 ![Platform](https://img.shields.io/badge/platform-macOS-black)
 ![Size](https://img.shields.io/badge/size-1.3%20MB-blue)
 ![Status](https://img.shields.io/badge/status-new-brightgreen)
+
+[![Get it on Glaze](https://img.shields.io/badge/Get%20it%20on-Glaze-121212?style=for-the-badge)](https://www.glaze.app/app/kunai-sound-report-x9FRrf)
 </div>
 
 ---
@@ -43,5 +45,6 @@ A modern alternative to Sound Devices Wave Agent — for macOS.
 | Multitrack player | Play back multitrack audio with pan, solo, mute, and MS decode controls |
 | Sound reports | Generate production sound reports directly from your takes |
 
-## Links / Installation
-- [Kunai Sound Report on Glaze](https://www.glaze.app/app/kunai-sound-report-x9FRrf)
+## Installation
+
+Download and install Kunai Sound Report from its [Glaze listing](https://www.glaze.app/app/kunai-sound-report-x9FRrf).
