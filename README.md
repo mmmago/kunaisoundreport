@@ -27,8 +27,9 @@ A modern alternative to Sound Devices Wave Agent — for macOS.
 
  ## Screenshots
 
- <img width="588" height="384" alt="Capture d’écran 2026-09-15 à 21 44 09" src="https://github.com/user-attachments/assets/1b9db245-328f-490a-a311-bb583787e6c9" />
- <img width="410" height="370" alt="Capture d’écran 2026-09-15 à 21 44 33" src="https://github.com/user-attachments/assets/b68c40c6-44cf-460c-be94-016b80da4ec9" />
+<img width="470" height="307" alt="Capture d’écran 2026-09-15 à 21 44 09" src="https://github.com/user-attachments/assets/1b9db245-328f-490a-a311-bb583787e6c9" />
+<img width="328" height="296" alt="Capture d’écran 2026-09-15 à 21 44 33" src="https://github.com/user-attachments/assets/b68c40c6-44cf-460c-be94-016b80da4ec9" />
+
 
 
 
