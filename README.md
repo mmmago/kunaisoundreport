@@ -39,6 +39,7 @@ A modern alternative to Sound Devices Wave Agent — for macOS.
 | Feature | Description |
 |---|---|
 | Batch metadata editing | Rename, circle, note, and edit takes metadata in bulk |
+| Data editing | Delete individual tracks from PolyWav, remove or isolate audio sections |
 | Multitrack player | Play back multitrack audio with pan, solo, mute, and MS decode controls |
 | Sound reports | Generate production sound reports directly from your takes |
 
