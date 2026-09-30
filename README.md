@@ -21,7 +21,7 @@ A modern alternative to Sound Devices Wave Agent — for macOS.
 
 **Kunai Sound Report** is a modern alternative to Sound Devices Wave Agent, built for anyone who needs to quickly clean up and report on production sound takes.
 
-- Batch rename, circle, note, and edit takes metadata quickly
+- Batch rename, circle, note, and edit takes metadata and data quickly
 - Multitrack audio player with pan / solo / mute / MS decode
 - Generate sound reports with ease
 
