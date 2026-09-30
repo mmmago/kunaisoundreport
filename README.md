@@ -9,7 +9,7 @@
 
 **Edit audio metadata, generate reports.**
 
-A modern alternative to Sound Devices Wave Agent — for macOS.
+A modern alternative to Sound Devices Wave Agent for macOS.
 
 ![Platform](https://img.shields.io/badge/platform-macOS-black)
 ![Status](https://img.shields.io/badge/status-new-brightgreen)
