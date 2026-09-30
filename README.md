@@ -71,6 +71,7 @@ Download the latest `.dmg` from the [Releases](../../releases) tab, open it, and
 | `←` / `→` | Move track selection (hold `Shift` to extend) |
 | `S` | Toggle solo on selected track(s) |
 | `M` | Toggle mute on selected track(s) |
+| `CMD+Del` | Delete selected track from PolyWav |
 | `T` | Zoom in on waveform (50%) |
 | `R` | Zoom out on waveform (50%) |
 
