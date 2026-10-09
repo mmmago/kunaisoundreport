@@ -7,7 +7,7 @@
 
 # Kunai Sound Report
 
-**Edit audio metadata, generate reports.**
+**Edit PolyWav audio metadata and data, generate reports.**
 
 A modern alternative to Sound Devices Wave Agent for macOS.
 
