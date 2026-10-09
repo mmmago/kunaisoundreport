@@ -21,7 +21,8 @@ A modern alternative to Sound Devices Wave Agent for macOS.
 
 **Kunai Sound Report** is a modern alternative to Sound Devices Wave Agent, built for anyone who needs to quickly clean up and report on production sound takes.
 
-- Batch rename, circle, note, and edit takes metadata and data quickly
+- Batch rename, circle, note, and edit takes metadata quickly
+- Edit PolyWav data with ease by deleting tracks, splitting and merging files together
 - Multitrack audio player with pan / solo / mute / MS decode
 - Generate sound reports with ease
 
@@ -39,7 +40,7 @@ A modern alternative to Sound Devices Wave Agent for macOS.
 | Feature | Description |
 |---|---|
 | Batch metadata editing | Rename, circle, note, and edit takes metadata in bulk |
-| Data editing | Delete individual tracks from PolyWav, remove or isolate audio sections |
+| Data editing | Delete individual tracks from PolyWav, remove or isolate audio sections, merge files together |
 | Multitrack player | Play back multitrack audio with pan, solo, mute, and MS decode controls |
 | Sound reports | Generate production sound reports directly from your takes |
 
@@ -73,6 +74,7 @@ Download the latest `.dmg` from the [Releases](../../releases) tab, open it, and
 | `S` | Toggle solo on selected track(s) |
 | `M` | Toggle mute on selected track(s) |
 | `CMD+Del` | Delete selected track from PolyWav |
+| `CMD+R` | Rename selected track |
 | `T` | Zoom in on waveform (50%) |
 | `R` | Zoom out on waveform (50%) |
 
