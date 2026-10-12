@@ -56,6 +56,7 @@ Download the latest `.dmg` from the [Releases](../../releases) tab, open it, and
 |---|---|
 | `Space` | Open selected file in the Audio Player |
 | `↑` / `↓` | Move selection (hold `Shift` to extend) |
+| `←` / `→` | Move from file list to take list|
 | `⌘A` | Select all |
 | `⌘O` | Open files |
 | `⌘⇧O` | Open folder |
