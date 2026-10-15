@@ -9,9 +9,9 @@
 
 **Edit PolyWav audio metadata and data, generate reports.**
 
-A modern alternative to Sound Devices Wave Agent for macOS.
+A modern alternative to Sound Devices Wave Agent for macOS and Windows.
 
-![Platform](https://img.shields.io/badge/platform-macOS-black)
+![Platform](https://img.shields.io/badge/platform-macOS%20%7C%20Windows-black)
 ![Status](https://img.shields.io/badge/status-new-brightgreen)
 </div>
 
@@ -46,7 +46,23 @@ A modern alternative to Sound Devices Wave Agent for macOS.
 
 ## Installation
 
-Download the latest `.dmg` from the [Releases](../../releases) tab, open it, and drag **Kunai Sound Report** into your Applications folder.
+Download **version 1.4** from the [Releases](https://github.com/mmmago/kunaisoundreport/releases/latest) tab:
+
+| Platform | Download |
+|---|---|
+| macOS (Intel and Apple silicon) | [Kunai Sound Report 1.4.dmg](https://github.com/mmmago/kunaisoundreport/releases/download/v1.4/Kunai.Sound.Report.1.4.dmg) |
+| Windows (Intel/AMD x64) | [1.4-win-x64.exe](https://github.com/mmmago/kunaisoundreport/releases/download/v1.4/1.4-win-x64.exe) |
+| Windows (ARM64) | [1.4-win-arm64.exe](https://github.com/mmmago/kunaisoundreport/releases/download/v1.4/1.4-win-arm64.exe) |
+
+**macOS:** Open the DMG and drag **Kunai Sound Report** into your Applications folder.
+
+**Windows:** Download the executable matching your system type, save it in a local folder, and double-click it. No installation or separate .NET runtime is required.
+
+### What's new in 1.4
+
+- Windows (x64 and ARM) support
+- « Show on finder/explorer » option when right click on a file
+- Minor interface bug fixes
 
 ## Keyboard Shortcuts
 
